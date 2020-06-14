@@ -31,4 +31,21 @@
 
 
 ## Day 3:
+- Stack Implementation
+- Stack using Stl
+- Stack Infix to Postfix, Prefix
+- Stack Prefix to Infix
+- Stack Postfix to Infix
+- Stack Postfix to Prefix
+- Stack Prefix to Postfix
+- Stock Span Problem
 
+## Day 4:
+- Check got balanced Parentheses in an expression
+- Tower of Hanoi
+- Sort a stack using recursion
+- Printing ancestors of a given binary tree node without recursion
+- Reverse a string using stack
+- Length of longest valid substring
+- Minimum number of bracket reversals needed to make an expression balanced 
+- Balanced expression with replacement
